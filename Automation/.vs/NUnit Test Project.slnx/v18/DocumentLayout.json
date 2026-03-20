@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35989\\source\\repos\\NUnit Test Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89EFF21-6804-4CEB-8BE0-14283A7C70DB}|SauceDemo-Automation-CSharp\\SauceDemo-Automation-CSharp.csproj|c:\\users\\35989\\source\\repos\\nunit test project\\saucedemo-automation-csharp\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89EFF21-6804-4CEB-8BE0-14283A7C70DB}|SauceDemo-Automation-CSharp\\SauceDemo-Automation-CSharp.csproj|solutionrelative:saucedemo-automation-csharp\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89EFF21-6804-4CEB-8BE0-14283A7C70DB}|SauceDemo-Automation-CSharp\\SauceDemo-Automation-CSharp.csproj|c:\\users\\35989\\source\\repos\\nunit test project\\saucedemo-automation-csharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F89EFF21-6804-4CEB-8BE0-14283A7C70DB}|SauceDemo-Automation-CSharp\\SauceDemo-Automation-CSharp.csproj|solutionrelative:saucedemo-automation-csharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\35989\\source\\repos\\NUnit Test Project\\SauceDemo-Automation-CSharp\\README.md",
+              "RelativeDocumentMoniker": "SauceDemo-Automation-CSharp\\README.md",
+              "ToolTip": "C:\\Users\\35989\\source\\repos\\NUnit Test Project\\SauceDemo-Automation-CSharp\\README.md",
+              "RelativeToolTip": "SauceDemo-Automation-CSharp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-20T21:51:50.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\35989\\source\\repos\\NUnit Test Project\\SauceDemo-Automation-CSharp\\LoginTests.cs",
+              "RelativeDocumentMoniker": "SauceDemo-Automation-CSharp\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\35989\\source\\repos\\NUnit Test Project\\SauceDemo-Automation-CSharp\\LoginTests.cs",
+              "RelativeToolTip": "SauceDemo-Automation-CSharp\\LoginTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T21:22:53.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
