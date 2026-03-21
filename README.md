@@ -1,4 +1,4 @@
-# 🛒 SauceDemo: Manual & Automation Testing Project
+# 🛒 Projects: Manual & Automation Testing Project
 
 Hi! I used [SauceDemo](https://www.saucedemo.com) to practice writing test cases and later transformed them into automated scripts. This project demonstrates a full testing lifecycle.
 
