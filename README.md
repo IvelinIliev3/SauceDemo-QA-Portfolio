@@ -16,7 +16,7 @@ In this phase, I focused on identifying test scenarios and documenting them clea
   
 ## 📝 Manual Testing (TimeWise Project)
 I performed comprehensive manual testing on the **TimeWise Web App**, documenting everything from initial navigation to complex user registrations.
-*   **Artifacts:** [View Test Cases & Bug Reports (PDF)](./Manual_Testing_Test_Cases_and_Bugs_TimeWise.pdf)
+*   **Artifacts:** [View Test Cases & Bug Reports (PDF)](./Manual/Manual_Testing_Test_Cases_and_Bugs_TimeWise.pdf)
 *   **Key Findings:** Logged **10 critical and high-severity bugs**, including authentication failures and UI inconsistencies.
 *   **Skills:** Boundary Value Analysis (BVA), Functional Testing, and detailed Bug Reporting.
 
